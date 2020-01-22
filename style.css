@@ -1,17 +1,14 @@
 body {
-  background-image: url(unknown.png);
-  background-repeat: no-repeat;
+  background-color: darkslategray;
   background-attachment:fixed;
-  background-position:right bottom;
-  background-size: 100%;
 }
 
 #pong{
   border: 2px solid #FFF;
   position: absolute;
   margin :auto;
-  top:250px;
+  top:0;
   right:0;
-  left:725px;
+  left:0;
   bottom:0;
 }
